@@ -1,4 +1,4 @@
 COMP2911-Project
 ================
 
-Maze builders, 2014
+Java maze game with levelling system, powerups, selectable characters.
